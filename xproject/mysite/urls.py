@@ -1,4 +1,5 @@
 
+
 from django.contrib import admin
 from django.urls import path, include
 from django.shortcuts import redirect #다른 주소로 넘기기
